@@ -1,0 +1,92 @@
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.exe.config
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.exe
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.pdb
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.dll
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csprojAssemblyReference.cache
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.Properties.Resources.resources
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.GenerateResource.cache
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.CoreCompileInputs.cache
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.CopyComplete
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.exe
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.pdb
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csprojAssemblyReference.cache
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.AnaEkran.resources
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.Properties.Resources.resources
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.GenerateResource.cache
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.CoreCompileInputs.cache
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.exe
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.pdb
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.exe.config
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.exe
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.pdb
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.dll
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.CopyComplete
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.SınavFormu.resources
+C:\Users\Alparslan\Desktop\Yeni klasör\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.OgrenilenKelimeGrafik.resources
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIKelimeEkle.resources
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIAnamenü.resources
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIIstatistikler.resources
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIKelimeOgren.resources
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UISozluk.resources
+C:\Users\Alparslan\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UISınavFormu.resources
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.exe.config
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.exe
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.pdb
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIKelimeEkle.resources
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIAnamenü.resources
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIIstatistikler.resources
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIKelimeOgren.resources
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UISozluk.resources
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UISınavFormu.resources
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.exe
+C:\Users\ASUS\Desktop\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.pdb
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.exe.config
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.exe
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.pdb
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIKelimeEkle.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIAnamenü.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIIstatistikler.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIKelimeOgren.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UISozluk.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UISınavFormu.resources
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.CopyComplete
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.exe
+C:\Users\ASUS\Desktop\DERSLER\Projeler\2. Sınıf 2. Dönem Yazılım Yapımı\Yazılım Yapımı Proje\Code Files\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.pdb
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.exe.config
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.exe
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\bin\Debug\Dictionary Application.pdb
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIKelimeEkle.resources
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIAnamenü.resources
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIIstatistikler.resources
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UIKelimeOgren.resources
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UISozluk.resources
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary_Application.UISınavFormu.resources
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.exe
+C:\Users\ASUS\Desktop\Dictionary Application\Dictionary Application\obj\Debug\Dictionary Application.pdb
